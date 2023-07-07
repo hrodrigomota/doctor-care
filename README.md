@@ -6,11 +6,13 @@
 
 ## 📑 Description ##
 
-<p> This project was created during the Next Level Week - NLW Return, an event developed by Rocketseat. The Doctor Care application is the final project of the Origin Mission.</p>
+<p> This project was created during the Next Level Week - NLW Return, an event developed by Rocketseat.</p>
+<p>The Doctor Care application is the final project of the Origin Mission.</p>
 
 ## 🔗 Functions ##
 
-<p>DoctorCare is a responsive institutional page, in "one page" format, that was divided in the following sections: Header, Navigation, Home, Services, About, Contact and Footer. This model can be used for any kind of companies.</p>
+<p>DoctorCare is a responsive institutional page, in "one page" format, which was divided into the following sections: Header, Navigation, Home, Services, About, Contact and Footer.</p> 
+<p> This template can be used for any type of business.</p>
 
 ## 💻 Language and Tools ##
 
